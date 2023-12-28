@@ -19,6 +19,7 @@ The input format for describing the graph is as follows:
 
 ## Example
 ![The graph used looks like the following](https://github.com/DanielH987/Graph-Traversal/blob/main/blob/graph.png)  
+The graph used looks like the following  
 
 Input:  
 >A B C D E F G H I J  
