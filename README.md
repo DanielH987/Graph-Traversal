@@ -14,7 +14,7 @@ This Java application is designed to simulate graph traversal processes. It buil
 The input format for describing the graph is as follows:
 - First line: A list of node names in alphabetical order.
 - Second line: The name of the starting node for the traversal.
-- Subsequent lines: Each define one edge in the graph, with the format `node1 node2`. Edges are undirected.
+- Subsequent lines: Each defines one edge in the graph, with the format `node1 node2`. Edges are undirected.
 - Last line: Three asterisks `***` to signify the end of the edge definitions.
 
 ## Example
